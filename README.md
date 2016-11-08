@@ -1,3 +1,7 @@
+[![bitHound Overall Score](https://www.bithound.io/github/RiseVision/lisk/badges/score.svg)](https://www.bithound.io/github/RiseVision/lisk)
+[![bitHound Dependencies](https://www.bithound.io/github/RiseVision/lisk/badges/dependencies.svg)](https://www.bithound.io/github/RiseVision/lisk/development/dependencies/npm)
+[![bitHound Dev Dependencies](https://www.bithound.io/github/RiseVision/lisk/badges/devDependencies.svg)](https://www.bithound.io/github/RiseVision/lisk/development/dependencies/npm)
+[![bitHound Code](https://www.bithound.io/github/RiseVision/lisk/badges/code.svg)](https://www.bithound.io/github/RiseVision/lisk)
 # Lisk
 
 Lisk is a next generation crypto-currency and decentralized application platform, written entirely in JavaScript. For more information please refer to our website: https://lisk.io/.
