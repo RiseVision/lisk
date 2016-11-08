@@ -1,10 +1,4 @@
-[![bitHound Overall Score](https://www.bithound.io/github/RiseVision/lisk/badges/score.svg)](https://www.bithound.io/github/RiseVision/lisk)
-
-[![bitHound Dependencies](https://www.bithound.io/github/RiseVision/lisk/badges/dependencies.svg)](https://www.bithound.io/github/RiseVision/lisk/development/dependencies/npm)
-
-[![bitHound Dev Dependencies](https://www.bithound.io/github/RiseVision/lisk/badges/devDependencies.svg)](https://www.bithound.io/github/RiseVision/lisk/development/dependencies/npm)
-
-[![bitHound Code](https://www.bithound.io/github/RiseVision/lisk/badges/code.svg)](https://www.bithound.io/github/RiseVision/lisk)
+[![bitHound Overall Score](https://www.bithound.io/github/RiseVision/lisk/badges/score.svg)](https://www.bithound.io/github/RiseVision/lisk) [![bitHound Dependencies](https://www.bithound.io/github/RiseVision/lisk/badges/dependencies.svg)](https://www.bithound.io/github/RiseVision/lisk/development/dependencies/npm)[![bitHound Dev Dependencies](https://www.bithound.io/github/RiseVision/lisk/badges/devDependencies.svg)](https://www.bithound.io/github/RiseVision/lisk/development/dependencies/npm)[![bitHound Code](https://www.bithound.io/github/RiseVision/lisk/badges/code.svg)](https://www.bithound.io/github/RiseVision/lisk)
 
 # Lisk
 
